@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文深度阅读"
+  short_description: "用中文深度阅读研究论文，重建方法并批判分析局限与后续方向"
+  default_prompt: "Use $paper-deep-reading to deeply read and analyze this paper in Chinese."
+
+policy:
+  allow_implicit_invocation: true
